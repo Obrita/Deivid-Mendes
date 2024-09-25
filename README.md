@@ -1,0 +1,1 @@
+Este projeto visa desenvolver uma página pessoal que serve como um portfólio digital, apresentando meu repositório no github,  Com um design responsivo e atraente, a página incluirá a seção 'Sobre Mim'. O objetivo é criar um espaço que reflita minha identidade e facilite conexões profissionais e pessoais.A implementação será feita utilizando HTML e CSS.
